@@ -1,4 +1,7 @@
 # How to implement sidebar navigation shown in DevExpress demos
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t598380)**
+<!-- run online end -->
 
 
 <p>This example illustrates our brand new design for demos, which was implemented in version 17.2.<br>It contains all the functionality with searching and navigation between different items that are represented in our main demo site.<br>The main sections are
