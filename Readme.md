@@ -1,6 +1,6 @@
 # How to implement sidebar navigation shown in DevExpress demos
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t598380)**
+**[[Run Online]](https://codecentral.devexpress.com/t598380/)**
 <!-- run online end -->
 
 
