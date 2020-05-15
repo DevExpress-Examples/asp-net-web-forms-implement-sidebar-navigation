@@ -10,6 +10,7 @@ namespace AdaptiveSlideNavigation {
             PageHeader.InnerText = GetPageName();
             Content.InnerText = string.Format("Content for {0}", GetPageName());
         }
+        
         string GetPageName() {
             string xField = Request.QueryString["x"];
             string name = string.IsNullOrEmpty(xField)
