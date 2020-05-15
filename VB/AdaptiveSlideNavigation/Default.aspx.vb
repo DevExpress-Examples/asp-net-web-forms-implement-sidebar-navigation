@@ -12,6 +12,7 @@ Namespace AdaptiveSlideNavigation
             PageHeader.InnerText = GetPageName()
             Content.InnerText = String.Format("Content for {0}", GetPageName())
         End Sub
+    
         Private Function GetPageName() As String
             Dim xField As String = Request.QueryString("x")
             Dim name As String = If(String.IsNullOrEmpty(xField), "Home", Request.QueryString("x"))
