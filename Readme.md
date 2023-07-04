@@ -19,7 +19,7 @@ Displays the page header and a [button](https://docs.devexpress.com/AspNet/11620
 * **Sidebar**  
 Displays [ASPxTreeView](https://docs.devexpress.com/AspNet/8558/components/site-navigation-and-layout/treeview) and [ASPxNavBar](https://docs.devexpress.com/AspNet/8285/components/site-navigation-and-layout/navigation-bar). The Tree View control shows the site structure and allows users to navigate between pages. The Navigation Bar allows users to search for a particular page.
 
-* **Main Content**
+* **Main Content**  
 The content placed in the [main](https://www.w3schools.com/tags/tag_main.asp) element.
 
 ## Files to Review
