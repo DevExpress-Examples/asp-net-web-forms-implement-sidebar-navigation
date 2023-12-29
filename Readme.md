@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # ASP.NET Web Forms Controls - How to implement sidebar navigation shown in DevExpress demos
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/134059232/)**
-<!-- run online end -->
 This example demonstrates how to implement sidebar navigation as in [DevExpress ASP.NET Web Forms demos](https://demos.devexpress.com/ASP/).
 
 ![Implement Sidebar Navigation](image.png)
